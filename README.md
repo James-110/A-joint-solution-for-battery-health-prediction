@@ -1,1 +1,1 @@
-0
+This repository currently includes semi-supervised learning, as well as a dataset from a data-driven paper (124 batteries, over 140,000 data entries) and the MIT battery dataset. It is continuously being updated.
