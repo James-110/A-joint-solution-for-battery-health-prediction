@@ -79,14 +79,4 @@ This unified design is intended to improve consistency, scalability, and practic
 applicability in real battery management systems.
 
 ---
-
-## Repository Structure
-
-```text
-├── data/           Dataset preprocessing and loading scripts
-├── src/            Core model implementations
-├── experiments/    Training and evaluation scripts
-├── configs/        Experiment configuration files
-├── analysis/       Visualization and representation analysis (e.g., t-SNE)
-├── docs/           Project documentation and notes
-└── README.md
+The structure of our REPO has not been comfirmed and this repo will be updated continuously.
