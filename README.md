@@ -9,6 +9,10 @@ degradation data as input and outputs both RUL and SOH-related predictions.
 
 ---
 
+## 备注
+本项目仓库用git指令进行管理，作业前请熟悉git指令，如git pull, git push, git commit，以及和远程仓库
+同步问题，如git push之前是否需检查远程仓库是否已经up to date，等。
+
 ## Overview
 
 Accurate estimation of battery health states is a critical problem in battery
